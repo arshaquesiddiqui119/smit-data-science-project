@@ -1,2 +1,2 @@
-# smit-data-science-project
+my readme file
 projects
